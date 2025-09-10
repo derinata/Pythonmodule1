@@ -1,4 +1,4 @@
-# MODULE 5. TASK 1
+# MODULE5. TASK 1
 import random  # Importing random to generate random numbers
 
 num_dice = int(input("How many dice would you like to roll? "))
